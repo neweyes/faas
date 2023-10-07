@@ -46,19 +46,15 @@ Tell us more:
 
 * [Black.ai](https://black.ai) - video encoding, transcoding - object detection for CCTV using AI.
 
-* [Cloud Initiatives](https://cloudinitiatives.com) - Used for customer installations for custom functionality, and for main product providing educational course metrics.
-
-* [Corva.ai](https://corva.ai) - "Corva is an information-sharing, collaboration-driving, and productivity-powering solution for your Drilling, Completions, Geoscience, and Sustainability teams."
-
-* [3fs](https://3fs.si) - 3fs is using OpenFaaS for automating repetitive development tasks like automatic rebasing, vendoring of dependencies on merge requests and many other things that make our developers lives easier
-
-* [Baidu](https://baidu.com) - A team within Baidu provides ML models to customers which are hosted on OpenFaaS - He Sun.
-
 * [Breu](https://breu.io) - Breu is using OpenFaaS to build an end user monitoring solution for hybrid cloud.
 
 * [BT](https://www.bt.com) - BT are using OpenFaaS to enable collaboration between data-scientists and developers. The teams are going from 3-years to build and deliver a PoC, to 3 months. See: [KubeCon video](https://www.youtube.com/watch?v=y77HlN2Fa-w)
 
 * [BulletProof](https://www.bulletproof.co.uk/) - Bulletproof are using OpenFaaS to build an on demand and scalable Vulnerability Scanning (VA) engine. Using OpenFaaS allows us to use compute resource efficiently yet maintain the ability to grow to meet customer scanning demands. We also like the ability to use pure docker containers to compose multiple scanning tools with different technologies into a single, coherent interface. This has reduced the time need to add new tools to the platform.
+
+* [Cloud Initiatives](https://cloudinitiatives.com) - Used for customer installations for custom functionality, and for main product providing educational course metrics.
+
+* [Corva.ai](https://corva.ai) - "Corva is an information-sharing, collaboration-driving, and productivity-powering solution for your Drilling, Completions, Geoscience, and Sustainability teams."
 
 * [CDATA](https://cdata.com) - Used for background jobs and tasks such as backing up and exchanging data between systems.
 
